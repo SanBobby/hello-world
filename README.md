@@ -1,2 +1,5 @@
 # hello-world
-It is the place where I store my ideas, resources or even share and discuss things with others
+Hi Humans!
+
+Hubot here, Ilike node.js and coffeescripts (that's what I'm made of!)
+I've tacos on the moon and find them far superior to earth tacos.
